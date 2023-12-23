@@ -40,6 +40,21 @@
       "show": false,
       "generalType": "General knowledge",
       "explanation": "",
+      "score": 30
+    },
+    {
+      "type": "TWTO",
+      "question": "What is the primary purpose of a Solid-State Drive (SSD) in a computer?",
+      "options": [
+        "Executes functions from another file",
+        "Includes and evaluates a specified file",
+        "Imports classes from another file",
+        "Connects to a database"
+      ],
+      "hash": "79c1oh",
+      "show": true,
+      "generalType": "PHP",
+      "explanation": "The ` include ` statement in PHP is used to include and evaluate the specified file as part of the script.",
       "score": 20
     }
   ]
