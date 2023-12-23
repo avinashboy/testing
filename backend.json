@@ -1,0 +1,47 @@
+{
+  "session": "231223",
+  "questionCount": 3,
+  "endGame": "24-HOURS",
+  "questions": [
+    {
+      "type": "TWTO",
+      "question": "What was the first product for Meta Company?",
+      "options": ["whatsApp", "facebook", "google", "instagram"],
+      "hash": "ttcli8",
+      "show": true,
+      "generalType": "General knowledge",
+      "explanation": "The first product of Meta Company, originally known as Facebook Inc., was the Facebook social networking site, launched in 2004.",
+      "score": 20
+    },
+    {
+      "type": "TWTO",
+      "question": "What is the correct way to create a function in PHP?",
+      "options": [
+        "function: myFunction() {}",
+        "new function myFunction() {}",
+        "function myFunction() {}",
+        "create myFunction() {}"
+      ],
+      "hash": "zgsfi0",
+      "show": true,
+      "generalType": "PHP",
+      "explanation": "In PHP, functions are defined using the ` function ` keyword followed by the function name and parentheses.",
+      "score": 20
+    },
+    {
+      "type": "TWTO",
+      "question": "What is the primary purpose of a Solid-State Drive (SSD) in a computer?",
+      "options": [
+        "Processing Data",
+        "Storing Data",
+        "Cooling the System",
+        "Enhancing Graphics"
+      ],
+      "hash": "u7xx37",
+      "show": false,
+      "generalType": "General knowledge",
+      "explanation": "",
+      "score": 20
+    }
+  ]
+}
