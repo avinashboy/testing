@@ -57,5 +57,9 @@
       "explanation": "The ` include ` statement in PHP is used to include and evaluate the specified file as part of the script.",
       "score": 20
     }
-  ]
+  ],
+  "quote": {
+    "message": "Computers are good at following instructions, but not at reading your mind.",
+    "author": "Donald Knuth"
+  }
 }
