@@ -1,65 +1,160 @@
 {
-  "session": "231223",
-  "endGame": 1704076656404,
+  "session": "150124",
   "questions": [
     {
-      "type": "TWTO",
-      "question": "What was the first product for Meta Company?",
-      "options": ["whatsApp", "facebook", "google", "instagram"],
-      "hash": "ttcli8",
       "show": true,
-      "generalType": "General knowledge",
-      "explanation": "The first product of Meta Company, originally known as Facebook Inc., was the Facebook social networking site, launched in 2004.",
+      "type": "TWTO",
+      "question": "What does HTML stand for?",
+      "options": [
+        "High Text Markup Language",
+        "Hyper Tabular Markup Language",
+        "Hyper Text Markup Language",
+        "None of the above"
+      ],
+      "hash": "12ck5ap",
+      "generalType": "HTML",
+      "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for documents designed to be displayed in a web browser.",
       "score": 20
     },
     {
-      "type": "TWTO",
-      "question": "What is the correct way to create a function in PHP?",
-      "options": [
-        "function: myFunction() {}",
-        "new function myFunction() {}",
-        "function myFunction() {}",
-        "create myFunction() {}"
-      ],
-      "hash": "zgsfi0",
       "show": true,
-      "generalType": "PHP",
-      "explanation": "In PHP, functions are defined using the ` function ` keyword followed by the function name and parentheses.",
+      "type": "TWTO",
+      "question": "Which of the following elements is used for making any text bold in HTML?",
+      "options": [
+        "`<p>`",
+        "`<i>`",
+        "`<li>`",
+        "`<b>`"
+      ],
+      "hash": "1961g6a",
+      "generalType": "HTML",
+      "explanation": "The `<b>` tag is used to define bold text in an HTML document.",
       "score": 20
     },
     {
+      "show": true,
       "type": "TWTO",
-      "question": "What is the primary purpose of a Solid-State Drive (SSD) in a computer?",
+      "question": "Which of the following attributes is used to add link to any element?",
       "options": [
-        "Processing Data",
-        "Storing Data",
-        "Cooling the System",
-        "Enhancing Graphics"
+        "link",
+        "href",
+        "ref",
+        "newref"
       ],
-      "hash": "u7xx37",
+      "hash": "ep4if5",
+      "generalType": "HTML",
+      "explanation": "The `href` attribute is used in an anchor tag (`<a>`) to specify the URL of the page the link goes to.",
+      "score": 20
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "How can you make a numbered list in HTML?",
+      "options": [
+        "`<ul>`",
+        "`<dl>`",
+        "`<ol>`",
+        "`<list>`"
+      ],
+      "hash": "1vg7ia2",
+      "generalType": "HTML",
+      "explanation": "`<ol>` is used for creating an ordered list, where items are numbered.",
+      "score": 20
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "Which tag is used to create a dropdown list in HTML?",
+      "options": [
+        "`<select>`",
+        "`<list>`",
+        "`<dl>`",
+        "`<ul>`"
+      ],
+      "hash": "owjnvt",
+      "generalType": "HTML",
+      "explanation": "The `<select>` tag is used to create a dropdown list in HTML.",
+      "score": 20
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "Which HTML tag is used for displaying the largest heading?",
+      "options": [
+        "`<h6>`",
+        "`<heading>`",
+        "`<h1>`",
+        "`<head>`"
+      ],
+      "hash": "2yla8g",
+      "generalType": "HTML",
+      "explanation": "`<h1>` defines the largest heading in HTML.",
+      "score": 18
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": " What is the purpose of the `<div>` tag in HTML?",
+      "options": [
+        "For creating different sections",
+        "For adding a title",
+        "For creating a table",
+        "For inserting an image"
+      ],
+      "hash": "18zslxm",
+      "generalType": "HTML",
+      "explanation": "The `<div>` tag is used to define a division or a section in an HTML document.",
+      "score": 20
+    },
+    {
       "show": false,
-      "generalType": "General knowledge",
+      "type": "TWTO",
+      "question": "Which attribute specifies a unique identifier for an HTML element?",
+      "options": [
+        "class",
+        "id",
+        "src",
+        "alt"
+      ],
+      "hash": "1h232vk",
+      "generalType": "HTML",
       "explanation": "",
       "score": 30
     },
     {
-      "type": "TWTO",
-      "question": "What does the ` include ` statement do in PHP?",
-      "options": [
-        "Executes functions from another file",
-        "Includes and evaluates a specified file",
-        "Imports classes from another file",
-        "Connects to a database"
-      ],
-      "hash": "79c1oh",
       "show": true,
-      "generalType": "PHP",
-      "explanation": "The ` include ` statement in PHP is used to include and evaluate the specified file as part of the script.",
+      "type": "TWTO",
+      "question": "Which of the following HTML elements is used for inserting a line break?",
+      "options": [
+        "`<br>`",
+        "`<break>`",
+        "`<lb>`",
+        "`<line>`"
+      ],
+      "hash": "6lmf3h",
+      "generalType": "HTML",
+      "explanation": "`<br>` is used to insert a single line break.",
+      "score": 20
+    },
+    {
+      "show": true,
+      "type": "TWTO",
+      "question": "What does the `<canvas>` element in HTML5 do?",
+      "options": [
+        "Creates a container for an image",
+        "Creates a draggable element",
+        "Used to draw graphics on a web page",
+        "Defines a section within a document"
+      ],
+      "hash": "1viqzdv",
+      "generalType": "HTML",
+      "explanation": "The `<canvas>` element is used to draw graphics on a web page via scripting (usually JavaScript).",
       "score": 20
     }
   ],
+  "endGame": 1705378381028,
   "quote": {
-    "message": "Computers are good at following instructions, but not at reading your mind.",
-    "author": "Donald Knuth"
+    "message": "Be not afraid of life. Believe that life is worth living, and your belief will help create the fact.",
+    "author": "william james"
   }
 }
